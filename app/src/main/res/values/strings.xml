@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Structura4Droid</string>
+    <string name="making_pack">正在制作资源包，请稍等</string>
+    <string name="pack_saved_to">资源包已保存至%1$s</string>
+	<string name="loading_structures">正在加载已导出的结构……</string>
+</resources>
